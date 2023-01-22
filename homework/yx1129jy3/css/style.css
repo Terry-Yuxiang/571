@@ -1,0 +1,91 @@
+a{
+    text-decoration: none;
+    color: grey;
+}
+.header{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    padding: 14px 87px 16px 87px;
+    white-space: nowrap;    /* prevent text from wrapping to the next line.*/
+}
+
+.headingName{
+    font-size: 55px;
+    font-family: Georgia;
+}
+
+.headingLable{
+    font-size: 15px;
+    font-style: italic;
+    color: #808080;
+}
+
+.pagePic{
+    object-fit: cover;
+    width: 375px;
+    height: 375px;
+}
+
+.copyright{
+    margin-top: 30px;
+    font-family: Georgia, fantasy;
+    font-size: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+.contact{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contactPic{
+    width: 20px;
+    height: 20px;
+    border-collapse: separate;
+    padding: 13px 7px 10px 7px;
+}
+
+
+.pictureTable{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.picUnit{
+    padding: 0px 3px 0px 3px;
+}
+
+
+.page{
+    position: relative;
+    width: 780px;
+    height: 100%;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.middle{
+    position: relative;
+    margin: auto;
+    width: 750px;
+    height: 90px;
+
+}
+
+.pictureTableTitle{
+    position: absolute;
+    bottom: 5px;
+    text-align: left;
+    margin: 0;
+    font-size: 30px;
+    font-family: serif;
+}
