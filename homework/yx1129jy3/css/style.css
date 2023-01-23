@@ -14,8 +14,9 @@ a{
 }
 
 .headingName{
-    font-size: 55px;
+    font-size: 56px;
     font-family: Georgia;
+    letter-spacing: normal;
 }
 
 .headingLable{
@@ -88,4 +89,5 @@ a{
     margin: 0;
     font-size: 30px;
     font-family: serif;
+    letter-spacing: 1px;
 }
